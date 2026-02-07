@@ -33,6 +33,4 @@ BharatConnect AI addresses the critical problem of accessibility barriers—incl
 
 See the [tasks.md](/.kiro/specs/bharatconnect-ai/tasks.md) file for the complete implementation plan.
 
-## License
 
-MIT License
