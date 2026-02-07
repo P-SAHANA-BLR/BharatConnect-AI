@@ -21,7 +21,7 @@ BharatConnect AI addresses the critical problem of accessibility barriers—incl
 - **Database**: Supabase (PostgreSQL) with pgvector
 - **Embeddings**: Sentence-Transformers
 - **LLM**: Google Gemini (swappable with AWS Bedrock)
-- **Frontend**: React/Vue.js (mobile-first)
+- **Frontend**: React/Vue.js 
 
 ## Documentation
 
